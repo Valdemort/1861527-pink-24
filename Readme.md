@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
-* Студент: [Владимир](https://up.htmlacademy.ru/adaptive/24/user/1861527).
-* Наставник: `Неизвестно`.
+* Студент: [Владимир Саунин](https://up.htmlacademy.ru/adaptive/24/user/1861527).
+* Наставник: [Алексей Хабиров](https://htmlacademy.ru/profile/alex_khab).
 
 ---
 
